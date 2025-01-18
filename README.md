@@ -44,3 +44,7 @@ This project enhanced proficiency in:
 
 The **Coffee Sales Dashboard** is a comprehensive example of how Excel can be utilized beyond simple spreadsheets to create actionable business intelligence solutions.
 
+## EXCEL Dashboard Screenshots
+
+![Image](https://github.com/user-attachments/assets/91eb08e7-cfce-4d51-abfd-30af1c563d10)
+___
